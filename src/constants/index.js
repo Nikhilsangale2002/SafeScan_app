@@ -4,7 +4,7 @@ export const API_URL = __DEV__
   : 'https://api.safescan.com/api';
 
 export const MONITORING_URL = __DEV__
-  ? 'http://localhost:5001'
+  ? 'http://localhost:5003'
   : 'https://monitoring.safescan.com';
 
 // App Configuration
